@@ -24,6 +24,5 @@ appsettings.*.local.json
 Thumbs.db
 .idea/
 
-# Local file storage
-.storage/
-storage/
+# Local file storage (uploaded files in development)
+/backend/.storage/
